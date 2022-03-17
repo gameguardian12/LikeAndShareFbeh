@@ -21,12 +21,14 @@ $ git clone https://github.com/karawangxploit/LikeAndShareFbeh
 ```
 $ cd LikeAndShareFbeh
 $ ls 
-$ python2 menu.py
+$ python likeEnc.py
 ```
 
 ### BOT SHARE
 ```
-Gshd
+$ cd LikeAndShareFbeh
+$ ls
+$ python shareEnc.py
 ```
 ### THANXS TO 
 

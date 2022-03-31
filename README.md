@@ -37,7 +37,7 @@ THANXS TO : ALLAH SWT MY ORANGTUA MY TEAM MY FREIND
 KARAWANGXPLOIT AND KOBUSTOR GHOST TEAM
 ``` 
 ### OFFICIAL
-``` XerXer7 | CEO / Founder KarawangXploit```
+``` XnuxerAchil | CEO / Founder KarawangXploit```
  
 ``` XnuxerAchil | CEO / Defacher Sadboy```
 
